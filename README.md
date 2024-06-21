@@ -1,7 +1,5 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-
-# 📱 Flutter WhatsApp-like Chat Chat App
+# 📱 Flutter Chat App WhatsApp clone
 
 ## Overview
 
@@ -300,5 +298,6 @@ dart run flutter_native_splash:create --path=flutter_native_splash.yaml
 ```bash
 flutter run
 ```
-#   F l u t t e r - C h a t - A p p - W h a t s A p p - C l o n e  
+#   F l u t t e r - C h a t - A p p - W h a t s A p p - C l o n e 
+ 
  
